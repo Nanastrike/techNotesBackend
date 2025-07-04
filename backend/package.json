@@ -4,8 +4,7 @@
   "description": "techNotes MERN Project",
   "main": "server.js",
   "scripts": {
-    "start": "react-scripts start",
-    "client": "cd frontend && npm start",
+    "start": "node server",
     "dev": "nodemon server"
   },
   "keywords": [],
